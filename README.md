@@ -1,0 +1,1 @@
+This is a fork of [ImGui](https://github.com/ocornut/imgui/tree/docking) by [ocornut](https://github.com/ocornut/), licensed under the [MIT License](LICENSE.txt).
